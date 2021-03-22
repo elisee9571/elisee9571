@@ -1,3 +1,5 @@
+![](https://media-exp1.licdn.com/dms/image/C4E16AQFyNVqmzdDvQw/profile-displaybackgroundimage-shrink_200_800/0/1616409803595?e=1622073600&v=beta&t=tr3VhZ93jzXWeHPL1tNslqtGaterKWh4vhMtCAQB4Tc)
+
 ### Hi there, I'm Elisee and i am Developper Full Stack Js Junior and Web Designer
 
 ### I want to become a developer Full Stack and Web Designer
@@ -16,8 +18,7 @@
 [<img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>][github]
 
 <br/>
-
----
+<br/>
 
 ### languages and Tools Learned :
 <img align="left" src="https://img.icons8.com/fluent/25/000000/visual-studio-code-2019.png"/>
@@ -27,21 +28,23 @@
 <img align="left" src="https://img.icons8.com/color/25/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/vue-js.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/25/000000/bootstrap.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/wordpress.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/adobe-photoshop.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>
 
 <br/>
+<br/>
 
 ---
 
 ### My Stats :
-[![My stats](https://github-readme-stats.vercel.app/api?username=elisee9571)]
+![My stats](https://github-readme-stats.vercel.app/api?username=elisee9571)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisee9571)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisee9571)
 
 
 
