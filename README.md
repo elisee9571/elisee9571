@@ -1,6 +1,7 @@
 ### Hi there, I'm Elisee and i am Developper Full Stack Js Junior and Web Designer
 
 ### I want to become a developer Full Stack and Web Designer
+- 🇫🇷 I'm French
 - 👀 I am interested in the front but also the back, I like to do everything
 - 🌱 I’m currently working the Python language!
 - 📘 I’m currently learning everything ✨
@@ -30,11 +31,11 @@
 [<img align="left" src="https://img.icons8.com/color/25/000000/mysql-logo.png"/>]
 [<img align="left" src="https://img.icons8.com/color/25/000000/wordpress.png"/>]
 [<img align="left" src="https://img.icons8.com/color/25/000000/adobe-photoshop.png"/>]
-[<img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>][github]
+[<img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>]
 
 ---
 
-[![elisee9571 github stats](https://github-readme-stats.vercel.app/api?username=elisee9571)](https://github.com/elisee9571/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=elisee9571)](https://github.com/elisee9571/github-readme-stats)
 
 
 <!-- réseaux -->
