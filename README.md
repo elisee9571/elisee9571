@@ -14,6 +14,9 @@
 [<img align="left" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/>][linkedin]
 [<img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>][github]
 
+<br/>
+<br/>
+
 ---
 
 ### languages and Tools Learned :
@@ -31,7 +34,7 @@
 
 ---
 
-<img align="left" src="htpps://github-readme-stats.vercel.app/api?username=elisee9571_icons=true&hide_border=true"/>
+[![elisee9571 github stats](https://github-readme-stats.vercel.app/api?username=elisee9571)](https://github.com/elisee9571/github-readme-stats)
 
 
 <!-- réseaux -->
