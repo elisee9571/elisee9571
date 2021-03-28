@@ -15,7 +15,7 @@
 ### Social Media :
 [<img align="left" src="https://img.icons8.com/fluent/25/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/>][linkedin]
-[<img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>][github]
+[<img align="left" src="https://img.icons8.com/ios-glyphs/25/000000/github.png"/>][github]
 
 <br/>
 <br/>
@@ -33,6 +33,7 @@
 <img align="left" src="https://img.icons8.com/color/25/000000/wordpress.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/adobe-photoshop.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/ios-glyphs/25/000000/github.png"/>
 
 <br/>
 <br/>
