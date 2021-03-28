@@ -28,7 +28,7 @@
 <img align="left" src="https://img.icons8.com/color/25/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/vue-js.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/25/000000/bootstrap.png"/>
+<img align="left" src="https://img.icons8.com/color/25/000000/bootstrap.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/wordpress.png"/>
 <img align="left" src="https://img.icons8.com/color/25/000000/adobe-photoshop.png"/>
