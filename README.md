@@ -1,11 +1,11 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFyNVqmzdDvQw/profile-displaybackgroundimage-shrink_200_800/0/1616409803595?e=1622073600&v=beta&t=tr3VhZ93jzXWeHPL1tNslqtGaterKWh4vhMtCAQB4Tc)
 
-### Hi there, I'm Elisee and i am Developper Full Stack Js Junior and Web Designer
+### Hi there, I'm Elisee and i am Developer Junior Full Stack
 
 ### I want to become a developer Full Stack and Web Designer
 - 🇫🇷 I'm French
 - 👀 I am interested in the front but also the back, I like to do everything
-- 🌱 I’m currently working the Python language!
+- 🌱 I’m currently working the NodeJS and VueJS language for to find a job in alternaly!
 - 📘 I’m currently learning everything ✨
 - 💞️ I’m looking to collaborate with other content creator
 - 📫 How to reach me on Social Media
