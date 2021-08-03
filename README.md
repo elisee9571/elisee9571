@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Elisee and i am Developer Junior Full Stack
 
-### I want to become a developer Full Stack and Web Designer
+### I want to become a Developer Full Stack for being independent.
 - 🇫🇷 I'm French
 - 👀 I am interested in the front but also the back, I like to do everything
 - 🌱 I’m currently working the NodeJS and VueJS language for to find a job in alternaly!
